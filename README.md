@@ -10,14 +10,14 @@ Tools used for contact management, pipeline setup, deal tracking, and revenue op
 
 | Tool | Description | Details |
 |---|---|---|
-| HubSpot | Pipeline setup, lifecycle management, API integrations, and revenue reporting via Looker Studio | [View →](./crms/hubspot.md) |
-| Salesforce | Pipeline configuration, custom fields, record management, and analytics dashboards | [View →](./crms/salesforce.md) |
-| Attio | Object-based CRM setup, custom attributes, workflow automation, and pipeline tracking | [View →](./crms/attio.md) |
-| Pipedrive | Deal and pipeline management, custom fields, workflow automation, and sales reporting | [View →](./crms/pipedrive.md) |
-| GHL | Frontend funnel building, workflow automation, pipeline management, and analytics | [View →](./crms/ghl.md) |
-| Airtable | Base and table configuration, automation workflows, calendar views, and integrations | [View →](./crms/airtable.md) |
-| Marketo | Lead scoring, smart list segmentation, email nurture programs, and campaign analytics | [View →](./crms/marketo.md) |
-| Zoho | Workflow automation, custom fields and modules, forms, and pipeline configuration | [View →](./crms/zoho.md) |
+| HubSpot | Pipeline setup, lifecycle management, API integrations, and revenue reporting via Looker Studio | [View →](./crms/hubspot.png) |
+| Salesforce | Pipeline configuration, custom fields, record management, and analytics dashboards | [View →](./crms/salesforce.png) |
+| Attio | Object-based CRM setup, custom attributes, workflow automation, and pipeline tracking | [View →](./crms/attio.png) |
+| Pipedrive | Deal and pipeline management, custom fields, workflow automation, and sales reporting | [View →](./crms/pipedrive.png) |
+| GHL | Frontend funnel building, workflow automation, pipeline management, and analytics | [View →](./crms/gohighlevel.png) |
+| Airtable | Base and table configuration, automation workflows, calendar views, and integrations | [View →](./crms/airtable.png) |
+| Marketo | Lead scoring, smart list segmentation, email nurture programs, and campaign analytics | [View →](./crms/marketo.png) |
+| Zoho | Workflow automation, custom fields and modules, forms, and pipeline configuration | [View →](./crms/zoho.png) |
 
 ---
 
