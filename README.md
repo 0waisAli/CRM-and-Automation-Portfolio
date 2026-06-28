@@ -70,7 +70,7 @@ Tools used for project management, team collaboration, and task tracking.
 
 ```
 crm-and-automation-portfolio/
-├── Portoflio - Owais Ali.pdf
+├── Portfolio - Owais Ali.pdf
 ├── crms/
 │   ├── hubspot.png
 │   ├── salesforce.png
