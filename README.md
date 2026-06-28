@@ -61,9 +61,8 @@ Tools used for project management, team collaboration, and task tracking.
 
 | Tool | Description | Details |
 |---|---|---|
-| Slack | Channel management, workflow automations, n8n notification integration, and async collaboration | [View →](./workspace-tools/slack.md) |
-| ClickUp | Space and list setup, custom fields, automations, dashboards, and project management | [View →](./workspace-tools/clickup.md) |
-| Trello | Board and card management, Butler automation, Power-Ups, and lightweight project tracking | [View →](./workspace-tools/trello.md) |
+| Slack | Channel management, workflow automations, n8n notification integration, and async collaboration | [View →](./workspace-tools/slack.png) |
+| ClickUp | Space and list setup, custom fields, automations, dashboards, and project management | [View →](./workspace-tools/clickup.png) |
 
 ---
 
@@ -71,6 +70,7 @@ Tools used for project management, team collaboration, and task tracking.
 
 ```
 crm-and-automation-portfolio/
+├── Portoflio - Owais Ali.pdf
 ├── crms/
 │   ├── hubspot.png
 │   ├── salesforce.png
