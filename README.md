@@ -72,28 +72,28 @@ Tools used for project management, team collaboration, and task tracking.
 ```
 crm-and-automation-portfolio/
 ├── crms/
-│   ├── hubspot.md
-│   ├── salesforce.md
-│   ├── attio.md
-│   ├── pipedrive.md
-│   ├── ghl.md
-│   ├── airtable.md
-│   ├── marketo.md
-│   └── zoho.md
+│   ├── hubspot.png
+│   ├── salesforce.png
+│   ├── attio.png
+│   ├── pipedrive.png
+│   ├── ghl.png
+│   ├── airtable.png
+│   ├── marketo.png
+│   └── zoho.png
 ├── email-automation/
-│   ├── smartlead.md
-│   └── instantly.md
+│   ├── smartlead.png
+│   └── instantly.png
 ├── automation/
-│   ├── n8n.md
-│   ├── make.md
-│   └── zapier.md
+│   ├── n8n.png
+│   ├── make.png
+│   └── zapier.png
 ├── lead-enrichment/
-│   ├── apollo.md
-│   └── clay.md
+│   ├── apollo.png
+│   └── clay.png
 └── workspace-tools/
-    ├── slack.md
-    ├── clickup.md
-    └── trello.md
+    ├── slack.png
+    ├── clickup.png
+    └── trello.png
 ```
 
 ---
