@@ -27,8 +27,8 @@ Tools used for cold outreach, email sequencing, deliverability management, and c
 
 | Tool | Description | Details |
 |---|---|---|
-| Smartlead | Email account configuration, warmup setup, campaign sequences, and deliverability management | [View →](./email-automation/smartlead.md) |
-| Instantly | Sending account setup, outreach campaigns, lead list management, and inbox health monitoring | [View →](./email-automation/instantly.md) |
+| Smartlead | Email account configuration, warmup setup, campaign sequences, and deliverability management | [View →](./email-automation/smartlead.png) |
+| Instantly | Sending account setup, outreach campaigns, lead list management, and inbox health monitoring | [View →](./email-automation/instantly.png) |
 
 ---
 
