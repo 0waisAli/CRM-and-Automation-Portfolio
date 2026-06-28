@@ -98,4 +98,7 @@ crm-and-automation-portfolio/
 
 ---
 
-*Portfolio project — documents real GTM operations and automation work.*
+*Portfolio — documents real GTM operations and automation work.*
+---
+
+**Owais Ali** — [LinkedIn](https://www.linkedin.com/in/owais-ali-a1y/)
