@@ -50,8 +50,8 @@ Tools used for contact enrichment, firmographic data, ICP targeting, and GTM dat
 
 | Tool | Description | Details |
 |---|---|---|
-| Apollo | Contact and company enrichment, API integration with n8n, prospect list building, and CRM sync | [View →](./lead-enrichment/apollo.md) |
-| Clay | Multi-source enrichment waterfalls, AI columns, lead research, and outreach tool integration | [View →](./lead-enrichment/clay.md) |
+| Apollo | Contact and company enrichment, API integration with n8n, prospect list building, and CRM sync | [View →](./lead-enrichment/apollo.png) |
+| Clay | Multi-source enrichment waterfalls, AI columns, lead research, and outreach tool integration | [View →](./lead-enrichment/clay.png) |
 
 ---
 
