@@ -38,9 +38,9 @@ Tools used for building multi-step workflows, API integrations, data pipelines, 
 
 | Tool | Description | Details |
 |---|---|---|
-| n8n | Built production workflows for HubSpot API data pipelines, web scraping, lead enrichment, and AI-powered GTM automation | [View →](./automation/n8n.md) |
-| Make | Multi-step scenario building, conditional logic, CRM integrations, and bulk data processing | [View →](./automation/make.md) |
-| Zapier | Salesforce and GHL automation, multi-step Zaps, filters, formatters, and webhook-based workflows | [View →](./automation/zapier.md) |
+| n8n | Built production workflows for HubSpot API data pipelines, web scraping, lead enrichment, and AI-powered GTM automation | [View →](./automation/n8n.png) |
+| Make | Multi-step scenario building, conditional logic, CRM integrations, and bulk data processing | [View →](./automation/make.png) |
+| Zapier | Salesforce and GHL automation, multi-step Zaps, filters, formatters, and webhook-based workflows | [View →](./automation/zapier.png) |
 
 ---
 
